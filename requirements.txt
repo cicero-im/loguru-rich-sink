@@ -33,7 +33,7 @@ pygments==2.19.2
     # via
     #   pytest
     #   rich
-pytest==8.4.2
+pytest==9.0.3
     # via rich-color-ext
 rich==14.2.0
     # via
